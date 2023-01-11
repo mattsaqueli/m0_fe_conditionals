@@ -108,4 +108,4 @@ console.log(lovesToPlay || lovesDogPark);
 console.log(lovesToPlay && age);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER:
+// ANSWER: 1. I believe it evaluated to 1 because var age is set to a number instead of a boolean. 
